@@ -1,1 +1,1 @@
-c:/python32/python -m http.server 80
+c:/python33/python -m http.server 80
